@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Staatliches&display=swap');
+
+
+.form-div{
+    margin: 50px auto 50px;
+    /* border: 1px solid teal; */
+    /* border-radius: 5px; */
+    font-size: 1.1em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    padding: 50px auto 50px;
+}
+
+form p{
+
+    font-size: small;
+}
+
+.logout{
+    color: red;
+}
+
+#ekledivi{
+    width: 50%;
+}
+
