@@ -19,7 +19,7 @@ Siteye yukarıda iki emoji arası verilen linkten ya da http://kullanicideneyiml
 
 # Site içi Görüntüler
 Kullanıcının giriş yapacağı sayfa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    Kullanıcının kayıt olacağı sayfa 
-<img src="quiz9resimler/giris.png"  width="400" height="300">   <img src="oyunicigoruntuler/agacEklenmis2.jpeg"  width="400" height="300">
+<img src="quiz9resimler/giris.PNG"  width="400" height="300">   <img src="oyunicigoruntuler/agacEklenmis2.jpeg"  width="400" height="300">
 
 Kayıp Ekranı
 
