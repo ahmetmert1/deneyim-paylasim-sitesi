@@ -31,6 +31,10 @@ Kullanıcının kendi deneyimlerinin olduğu sayfa &emsp;&emsp;&emsp;&emsp;&emsp
 <img src="quiz9resimler/profil.PNG"  width="500" height="200">   <img src="quiz9resimler/deneyimekle.PNG"  width="500" height="200">
 
 
+Kullanıcının deneyimini düzenleyeceği sayfa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;     
+<img src="quiz9resimler/duzenle.PNG"  width="500" height="200">   
+
+
  
 # 💻 Teknolojiler 
 - HTML 
