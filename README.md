@@ -28,7 +28,7 @@ Kullanıcının girişini gösteren sayfa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&e
 
 
 Kullanıcının kendi deneyimlerinin olduğu sayfa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    Kullanıcının deneyim ekleyeceği sayfa 
-<img src="quiz9resimler/profil.PNG"  width="500" height="300">   <img src="quiz9resimler/deneyimekle.PNG"  width="500" height="300">
+<img src="quiz9resimler/profil.PNG"  width="500" height="200">   <img src="quiz9resimler/deneyimekle.PNG"  width="500" height="200">
 
 
  
