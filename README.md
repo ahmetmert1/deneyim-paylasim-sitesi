@@ -17,10 +17,9 @@ paylaştığı deneyimleri görebilmesidir.
 ## Siteye nasıl girilir?
 Siteye yukarıda iki emoji arası verilen linkten ya da http://kullanicideneyimleri.coolpage.biz/login.php adresinden girebilirsiniz.
 
-# Oyun içi Görüntüler
-Ağaç eklenmemiş oyunun ilk hali &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;     Ağaç eklenmiş hali
-
-<img src="oyunicigoruntuler/ilkhali2.jpeg"  width="400" height="300">   <img src="oyunicigoruntuler/agacEklenmis2.jpeg"  width="400" height="300">
+# Site içi Görüntüler
+Kullanıcının giriş yapacağı sayfa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    Kullanıcının kayıt olacağı sayfa 
+<img src="quiz9resimler/giris.png"  width="400" height="300">   <img src="oyunicigoruntuler/agacEklenmis2.jpeg"  width="400" height="300">
 
 Kayıp Ekranı
 
