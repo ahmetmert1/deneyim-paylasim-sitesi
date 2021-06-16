@@ -24,7 +24,7 @@ Kullanıcının giriş yapacağı sayfa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 
 Kullanıcının girişini gösteren sayfa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    Kullanıcının  anasayfası 
-<img src="quiz9resimler/basariligiris.PNG"  width="500" height="300">   <img src="quiz9resimler/anasayfa.PNG"  width="500" height="300">
+<img src="quiz9resimler/basariligiris.PNG"  width="500" height="300">   <img src="quiz9resimler/anasayfa.PNG"  width="500" height="200">
 
  
 # 💻 Teknolojiler 
