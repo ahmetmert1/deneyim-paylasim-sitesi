@@ -8,16 +8,14 @@
 Siteye buradan ulaşabilirsiniz. 👉 [Site Linki](http://kullanicideneyimleri.coolpage.biz/login.php) 👈
 
 ## Sitenin Amacı
-Ağaçsız bir çevreyi elimizdeki saksının içindeki tohumu <b>su</b> damlalarıyla yeşertip, onu fidan olarak doğaya kazandırmaya çalışıyoruz.
-Her fidan büyüdüğünde arkada bir ağaç olarak yerini alıyor ve orman yeşillenmeye başlıyor.
-Ancak bunu yaparken <b>asit</b> damlalarından kaçmamız gerekiyor. Tohumumuz her bir asit aldığında bir önceki evresine dönüyor.
-Eğer bitkimiz daha tohum evresindeyken asit ile karşılaşırsa oyunu kaybediyoruz.
+Siteye kayıt olup, giriş yapan kullanıcının daha önceden kullandığı veya kullanmakta olduğu bir ürün hakkında deneyim paylaşabilmesi,
+paylaştığı deneyimi düzenleyebilmesi ve isterse paylaştığı deneyimi veritabanından silebilmesi. Ayrıca siteye üye diğer kullanıcıların
+paylaştığı deneyimleri görebilmesidir.
 
-<img src="images/bitki1.png" width="100" height="100"> <img src="images/bitki2.png" width="100" height="100"> <img src="images/bitki3.png" width="100" height="100"> <img src="images/bitki4.png" width="100" height="100"> <img src="images/bitki5.png" width="100" height="100"> <img src="images/agac.png" width="100" height="100">
 
-## Nasıl Oynanır?
-Klavyedeki `⬅️` ve `➡️` tuşlarını kullanarak saksıyı hareket ettir ve asitlerden kaçarken damlaları yakalamaya çalış.
-`Mouse Left Click` ile kaybettiğin zaman oyuna tekrar başlayabilirsin.
+
+## Siteye nasıl girilir?
+Siteye yukarıda iki emoji arası verilen linkten ya da http://kullanicideneyimleri.coolpage.biz/login.php adresinden girebilirsiniz.
 
 # Oyun içi Görüntüler
 Ağaç eklenmemiş oyunun ilk hali &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;     Ağaç eklenmiş hali
