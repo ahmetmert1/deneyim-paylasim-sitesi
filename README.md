@@ -40,21 +40,11 @@ Kullanıcının deneyimini düzenleyeceği sayfa &emsp;&emsp;&emsp;&emsp;&emsp;&
 - HTML 
 - JavaScript 
 - CSS
-
-
-# 🎨 Tasarım 
-Oyunda yer alan resimlerin kimini birkaç resimin oluşmasından kendim tasarladım kimini direkt olarak png olarak koydum.
-
-Tasarımlarım: Arka plan resmi, bitki evreleri ve asit damlası.
-
-Tasarım platformu olarak [canva.com](https://www.canva.com/) 'u tercih ettim.
-
-# 🔊 Ses Efektleri ve Müzik 
-Oyundaki yer alan sesler [mixkit.co](https://mixkit.co/) sitesinden ve youtubeden alınmıştır.
+- PHP
+- SQL
 
 
 # 📞 Lisans ve İletişim
-Oyun hikayesi tasarımı, nesne tasarımları ve kodlar  [@ahmetmert1](https://github.com/ahmetmert1) tarafından yapılmıştır. 
 
 [Linkedin](https://www.linkedin.com/in/ahmet-mert-öz)
 
