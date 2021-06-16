@@ -5,7 +5,7 @@
 
 <img src="quiz9.PNG">
 
-Oyununa buradan ulaşabilirsiniz. 👉 [Site Linki](http://kullanicideneyimleri.coolpage.biz/login.php) 👈
+Siteye buradan ulaşabilirsiniz. 👉 [Site Linki](http://kullanicideneyimleri.coolpage.biz/login.php) 👈
 
 ## Sitenin Amacı
 Ağaçsız bir çevreyi elimizdeki saksının içindeki tohumu <b>su</b> damlalarıyla yeşertip, onu fidan olarak doğaya kazandırmaya çalışıyoruz.
