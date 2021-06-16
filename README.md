@@ -26,6 +26,11 @@ Kullanıcının giriş yapacağı sayfa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 Kullanıcının girişini gösteren sayfa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    Kullanıcının  anasayfası 
 <img src="quiz9resimler/basariligiris.PNG"  width="500" height="300">   <img src="quiz9resimler/anasayfa.PNG"  width="500" height="200">
 
+
+Kullanıcının kendi deneyimlerinin olduğu sayfa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    Kullanıcının deneyim ekleyeceği sayfa 
+<img src="quiz9resimler/profil.PNG"  width="500" height="300">   <img src="quiz9resimler/deneyimekle.PNG"  width="500" height="300">
+
+
  
 # 💻 Teknolojiler 
 - HTML 
