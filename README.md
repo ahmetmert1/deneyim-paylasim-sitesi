@@ -5,9 +5,9 @@
 
 <img src="quiz9.PNG">
 
-Oyununa buradan ulaşabilirsiniz. 👉 [Oyun Linki](https://ahmetmert1.github.io/Catch-the-Drop/) 👈
+Oyununa buradan ulaşabilirsiniz. 👉 [Site Linki](http://kullanicideneyimleri.coolpage.biz/login.php) 👈
 
-## Oyunun Amacı
+## Sitenin Amacı
 Ağaçsız bir çevreyi elimizdeki saksının içindeki tohumu <b>su</b> damlalarıyla yeşertip, onu fidan olarak doğaya kazandırmaya çalışıyoruz.
 Her fidan büyüdüğünde arkada bir ağaç olarak yerini alıyor ve orman yeşillenmeye başlıyor.
 Ancak bunu yaparken <b>asit</b> damlalarından kaçmamız gerekiyor. Tohumumuz her bir asit aldığında bir önceki evresine dönüyor.
