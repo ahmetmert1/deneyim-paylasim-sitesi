@@ -19,12 +19,12 @@ Siteye yukarıda iki emoji arası verilen linkten ya da http://kullanicideneyiml
 
 # Site içi Görüntüler
 Kullanıcının giriş yapacağı sayfa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    Kullanıcının kayıt olacağı sayfa 
-<img src="quiz9resimler/girisekrani.PNG"  width="500" height="300">   <img src="quiz9resimler/kayitolma.PNG"  width="500" height="300">
+<img src="quiz9resimler/girisekrani.PNG"  width="450" height="250">   <img src="quiz9resimler/kayitolma.PNG"  width="450" height="250">
 
 
 
 Kullanıcının girişini gösteren sayfa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    Kullanıcının  anasayfası 
-<img src="quiz9resimler/basariligiris.PNG"  width="500" height="300">   <img src="quiz9resimler/anasayfa.PNG"  width="500" height="200">
+<img src="quiz9resimler/basariligiris.PNG"  width="450" height="250">   <img src="quiz9resimler/anasayfa.PNG"  width="450" height="200">
 
 
 Kullanıcının kendi deneyimlerinin olduğu sayfa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    Kullanıcının deneyim ekleyeceği sayfa 
